@@ -1,0 +1,7 @@
+{
+	"name": "Adafruit_LSM303DLHC",
+	"version": "1.0.3",
+	"author": "Kyle Bowerman, <kyle.bowerman@gmail.com>",
+	"license": "MIT",
+	"description": Port of Adafruit_LSM303DLHC library to particle photon"
+}
